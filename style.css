@@ -6,6 +6,8 @@
     font-family: Comfortaa,cursive;
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&display=swap');
+
 body{
     display: flex;
     align-items: center;
@@ -85,15 +87,20 @@ header p{
 @media ( max-width: 445px){
     .wrapper{
         margin: 20px;
+        font-family: Comfortaa,cursive;
     }
     .header p{
         font-size: 12px;
+        font-family: Comfortaa,cursive;
     }
     .form input{
-        font-size: 14px
+        font-size: 14px;
+        font-family: Comfortaa,cursive;
     }
     .form button{
         font-size: 14px;
+        font-family: Comfortaa,cursive;
+
     }
 
   }
